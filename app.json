@@ -10,13 +10,13 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "Caseyrhodes~y4ZQVQ4K#BiaZf8ncQRg8sCuEgHbPMTArtKSiTD1lwxT7MCyYqpI"
     },  
     
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "Nicolaus Daniel 2😈😈😈"
     }, 
       
     "PREFIX": {
@@ -35,13 +35,13 @@
      "ANTI_DELETE": {
       "description": "set true for show deleted messages.",
       "required": false,
-      "value": "true"  
+      "value": "false"  
     },
     
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
    
     "AUTO_REPLY": {
@@ -85,13 +85,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DML-TECH"
+      "value": "Nicolaus Daniel 2😈😈😈"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254112192119"
+      "value": "255652398614"
 
     }, 
 
@@ -192,7 +192,7 @@
     "WELCOME": {
       "description": "make it true if want goodbye and welcome message in groups.",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
 
     "READ_MESSAGE": {
